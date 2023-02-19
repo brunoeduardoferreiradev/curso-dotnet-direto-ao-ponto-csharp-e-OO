@@ -7,7 +7,7 @@
 ## Dados do Curso
 ![Badge em Status](https://img.shields.io/badge/STATUS-PENDENTE-red?style=for-the-badge)
 
-* Início :  <b>00/00/2023</b> - Finalizado : <b>00/00/000 </b>
+* Início :  <b>00/00/0000</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Método .Net Direto ao Ponto</b>
 * Professor : <b>LuisDev</b>
 * Link do Curso : [Método .Net Direto ao Ponto](https://www.luisdev.com.br/cursos-e-mentorias/)
