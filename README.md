@@ -1,4 +1,4 @@
-# CursoMétodo .Net Direto ao Ponto - C# & Programação Orientada a Objetos
+# Curso Método .Net Direto ao Ponto - C# & Programação Orientada a Objetos
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/125761885/219909887-ade78a1f-c95f-4c54-a123-d74a73644626.png" >
